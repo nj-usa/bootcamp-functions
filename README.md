@@ -1,5 +1,5 @@
 ## bootcamp-functions
-
+  
 This repository contains the code that is run using Cognite Functions for the [CDF Enablement Bootcamp](https://docs-bootcamp.app.cogniteapp.com/)
 (hereafter referred to as _Bootcamp_).
 
